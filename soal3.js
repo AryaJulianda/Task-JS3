@@ -32,7 +32,7 @@ getCurrentTime()
 
 // async function main(){
 //     try{
-//         const word = 'Kodok';
+//         const word = 'kodok';
 //         const result = await cekPalindrom(word.toLowerCase());
 //         console.log(result);
 //     } catch(err) {
