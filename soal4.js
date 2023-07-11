@@ -4,3 +4,4 @@ fetch('https://jsonplaceholder.typicode.com/users')
         const names = data.map(item => item.name);
         console.log(names)
     })
+    .catch(err => console.log(err))
